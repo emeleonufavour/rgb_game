@@ -1,20 +1,7 @@
-<<<<<<< HEAD
-# rgb_game
-=======
-# rgb_game
+# ABOUT
+This is a simple flutter game where you try and create 
+the same color the computer randomly generates 
 
-A new Flutter project.
+# Screenshot
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 0f3df74 (Initial commit)
+<img width="503" alt="Screenshot 2023-01-05 at 10 17 44 PM" src="https://user-images.githubusercontent.com/106310497/210881827-bb517eaf-4153-419e-914d-9af8d7d9bb21.png">
